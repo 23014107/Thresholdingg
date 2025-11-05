@@ -1,4 +1,6 @@
 # 8-THRESHOLDING
+Name : Ramya.P
+Reg no : 212223240137
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
